@@ -1,3 +1,2 @@
 # intro-github
-I am Lord Bob, a cyber security and digital forensics student
-currently doing my undergraduate
+I am a level 4 undergraduate student at Leeds Beckett University. I am currently studying Cyber Security & Digital Forensics. My background involves studying Computer Science at A-levels, where i studied C# and python. I also learnt how to use Unity and in doing so, for my project I made a 2D side scroller game from scratch, coding all my different variables and their interactions, all in C#. I also dabbled in web development, learning the very basics of HTML, JavaScript and CSS
